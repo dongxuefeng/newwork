@@ -1,0 +1,26 @@
+﻿生成启动时间为 16/6/3 0:00:39。
+     1>项目“E:\workspace\newwork\DataService\DataService\DataService.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\workspace\newwork\DataService\DataService\webref /IE:\workspace\newwork\DataService\DataService\lib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ehl.ftpdata.save.cpp lib\oper_iniopen.cpp wchar_utf.cpp webref\ehl_webref.cpp webref\soapC.cpp webref\soapClient.cpp webref\soapClientLib.cpp webref\stdsoap2.cpp
+         stdsoap2.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “webref\stdsoap2.cpp”: No such file or directory
+         soapClientLib.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “webref\soapClientLib.cpp”: No such file or directory
+         soapClient.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “webref\soapClient.cpp”: No such file or directory
+         soapC.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “webref\soapC.cpp”: No such file or directory
+         ehl_webref.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “webref\ehl_webref.cpp”: No such file or directory
+         wchar_utf.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “wchar_utf.cpp”: No such file or directory
+         oper_iniopen.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “lib\oper_iniopen.cpp”: No such file or directory
+         ehl.ftpdata.save.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “ehl.ftpdata.save.cpp”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“E:\workspace\newwork\DataService\DataService\DataService.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.26
